@@ -7,6 +7,12 @@ JSON Configuration files, etc.
 These specifications might be published for multiple WireMock implementations.
 API alignment and unification in on WireMock's community roadmap.
 
+## Contents
+
+- WireMock Java
+  - [WireMock Admin API](./wiremock/)
+- NOTE: Feel free to contribute more implementations!
+
 ## License
 
 All specifications are licensed under the Apache License v2,
